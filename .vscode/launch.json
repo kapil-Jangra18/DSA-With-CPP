@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jangr/OneDrive/Desktop/DSA/DSA",
-      "program": "c:/Users/jangr/OneDrive/Desktop/DSA/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/jangr/OneDrive/Desktop/DSA/DSA/3.Class",
+      "program": "c:/Users/jangr/OneDrive/Desktop/DSA/DSA/3.Class/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
